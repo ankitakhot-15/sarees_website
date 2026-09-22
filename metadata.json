@@ -1,0 +1,6 @@
+{
+  "name": "Virasat Silk & Sarees",
+  "description": "Premium Indian Saree Showroom featuring authentic Paithani, Silk, Cotton, Designer, and Festive collections with color selection and AI Virtual Try-On.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
