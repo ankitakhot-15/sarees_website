@@ -44,7 +44,7 @@ export const shopConfig: ShopConfig = {
   googleMapsUrl: "https://maps.google.com/?q=Mahalakshmi+Temple+Kolhapur",
   mapUrl: "https://maps.google.com/?q=Mahalakshmi+Temple+Kolhapur",
   social: {
-    instagram: "https://instagram.com/virasatsarees",
+    instagram: "https://instagram.com",
     facebook: "https://facebook.com/virasatsarees",
     youtube: "https://youtube.com/@virasatsarees",
   },
